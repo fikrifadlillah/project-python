@@ -1,2 +1,2 @@
 print('hello git')
-print('ini adalah script modul-hitung')
+print('ini adalah script modul-hitung.')
