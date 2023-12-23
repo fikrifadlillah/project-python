@@ -1,2 +1,2 @@
-print('hello git')
-print('ini adalah script modul-hitung.')
+print('hello git, ini adalah simulasi merge conflict')
+print('ini adalah script modul-hitung')
